@@ -5,8 +5,8 @@ main:
   docs:
     - title: "AI study"
       children: 
-      - title: "Fundamental concepts"
-        url: /categories/fundamental
+        - title: "Fundamental concepts"
+          url: /categories/fundamental
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
